@@ -1,0 +1,61 @@
+.Logo{
+    position: relative;
+    left: 650px;
+    top: 50px;
+    height: 350px;
+}
+.form{
+    position: relative;
+    left: 600px;
+    top: 90px
+}
+.login-control{
+    position: relative;
+    margin: 10px;
+    width: 20%;
+    padding-left: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size: 20px;
+    font-weight: 20px;
+    outline: none;
+    border: 1px solid #1771F1;
+}
+.remember-password{
+    font-size: 10px;
+    margin-left: 8%;
+}
+.form-icon{
+
+    color: #1771F1;
+}
+.form-icon1{
+    position: absolute;
+    top: 14px;
+    left: 14px;
+}
+.form-icon2{
+    position: absolute;
+    top: 61.50px;
+    left: 14px;
+}
+.btn{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    position: absolute;
+    left: 0.50%;
+    right: 77%;
+    top: 110%;
+    bottom: -45%;
+    background: #1771F1;
+    border-radius: 8px;
+}
+.submit{
+    outline: none;
+    color: white;
+    text-decoration: none;
+    
+}
